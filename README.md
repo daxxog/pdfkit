@@ -1,5 +1,5 @@
 # PDFKit
-A PDF generation library for Node.js.
+A PDF generation library for Node.js. (daxxog's fork)
 
 ## Description
 
@@ -10,7 +10,7 @@ PDFKit is a PDF document generation library for Node that makes creating complex
 
 Installation uses the [npm](http://npmjs.org/) package manager.  Just type the following command after installing npm.
 
-    npm install pdfkit
+    npm install https://github.com/daxxog/pdfkit/tarball/fork1
 
 ## Features
 
